@@ -1,0 +1,14 @@
+{
+  "extends": ["standard", "prettier"],
+  "plugins": ["prettier", "import","jest"],
+  "rules": {
+    "prettier/prettier": "error"
+  },
+  "globals": {
+    "window": false,
+    "document": false
+  },
+  "env": {
+    "jest/globals": true
+  }
+}

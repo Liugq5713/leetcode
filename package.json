@@ -1,0 +1,50 @@
+{
+  "name": "repo-templete",
+  "version": "1.0.0",
+  "description": "a templete for you to code by modern js technology",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liugq5713/repo-templete.git"
+  },
+  "keywords": [
+    "templete"
+  ],
+  "author": "liugq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Liugq5713/repo-templete/issues"
+  },
+  "homepage": "https://github.com/Liugq5713/repo-templete#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.1.5",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.6.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-2": "^6.24.1",
+    "eslint": "^5.6.1",
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jest": "^21.22.1",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-prettier": "^2.7.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "jest": "^23.6.0",
+    "prettier": "^1.14.3"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
