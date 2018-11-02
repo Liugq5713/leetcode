@@ -27,7 +27,7 @@ module.exports = {
   // coverageDirectory: null,
 
   // An array of regexp pattern strings used to skip coverage collection
-  coveragePathIgnorePatterns: ['\\\\node_modules\\\\'],
+  // coveragePathIgnorePatterns: ['\\\\node_modules\\\\'],
 
   // A list of reporter names that Jest uses when writing coverage reports
   // coverageReporters: [
@@ -105,7 +105,7 @@ module.exports = {
   // rootDir: null,
 
   // A list of paths to directories that Jest should use to search for files in
-  roots: ['src'],
+  // roots: ['src'],
 
   // Allows you to use a custom runner instead of Jest's default test runner
   // runner: "jest-runner",

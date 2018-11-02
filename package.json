@@ -1,11 +1,10 @@
 {
-  "name": "repo-templete",
+  "name": "leetcode",
   "version": "1.0.0",
-  "description": "a templete for you to code by modern js technology",
+  "description": "my leetcode solution",
   "main": "index.js",
   "scripts": {
-    "dev": "node src/index.js",
-    "test": "jest"
+    "test": "jest NumberComplement  --watch"
   },
   "repository": {
     "type": "git",
